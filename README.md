@@ -8,4 +8,4 @@
 - I am mostly drawn to R or Sql -heavy projects related to Data Mining or Database Engineering but also have a knack for game development (contributing to open-source gamedev projects) on the side
 - I am currently learning  about efficient ways to implement Intrusion Detection Systems via Data Mining Frameworks (wish me luck)
 
-For all intends and purposes, you can reach me on my email: konstantinos.dv.ml@gmail.com or on any linked social media accounts if you're daring enough.
+For all intends and purposes, you can reach me on my email: konstantinos.dv.ml@gmail.com or on any linked social media accounts.
